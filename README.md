@@ -8,6 +8,7 @@
 ![SQL](https://img.shields.io/badge/SQL-aaa?style=for-the-badge&logo=labelColor=&color=111)
 ![Python](https://img.shields.io/badge/python-224?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 
