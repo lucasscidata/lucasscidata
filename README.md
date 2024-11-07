@@ -5,7 +5,7 @@
 
 
 ## Habilidades
-![SQL](https://img.shields.io/badge/SQL-aaa?style=for-the-badge&logo=labelColor=&color=111)
+![SQL](https://img.shields.io/badge/SQL-aaa?style=for-the-badge&logo=labelColor=&color=000)
 ![Python](https://img.shields.io/badge/python-224?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,5 +16,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasscidata&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-112?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-112?style=for-the-badge&logo=todoist&logoColor=white)](https://sites.google.com/view/lucasdataportifolio/home)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-002?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-jesus-1503ba323/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-002?style=for-the-badge&logo=todoist&logoColor=white)](https://sites.google.com/view/lucasdataportifolio/home)
