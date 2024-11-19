@@ -1,7 +1,11 @@
 # Lucas de Jesus
 
 ## Sobre
-*Sou um entusiasta e iniciante em Engenharia de Dados, com paixão por transformar dados em insights valiosos.  Atualmente, estou expandindo minhas habilidades em SQL, Python e tecnologias Cloud, buscando sempre aprender mais sobre modelagem de dados e orquestração de pipelines. Estou pronto para contribuir em projetos que me desafiem e aprimorem minhas habilidades no mundo de dados.*
+*Sou um profissional em transição para a área de tecnologia, com sólida experiência em resolução de problemas de clientes e negócios, além de contato próximo com sistemas integrados a bancos de dados e pontos de venda (PDV). 
+
+ Durante minha trajetória, desenvolvi habilidades técnicas em desenvolvimento de sistemas e manipulação de dados. Tenho experiência prática em webscraping e transformação de dados utilizando Python, bem como na criação de chatbots e outras soluções orientadas à automação.
+
+ Também já atuei na criação de sistemas de gerenciamento usando Java, o que me permitiu aprofundar conhecimentos em desenvolvimento de software. Possuo um entendimento inicial sobre Docker e conteinerização, o que amplia minha perspectiva de integração e portabilidade de sistemas. Estou em constante aprendizado e apaixonado pelo universo da tecnologia, sempre buscando novos desafios e formas de agregar valor com soluções inovadoras.*
 
 
 ## Habilidades
